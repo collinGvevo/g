@@ -1,0 +1,105 @@
+
+#v_logo
+{
+	width: 30%;
+	height: 25%;
+}
+
+#c_logo
+{
+	height: 200%;
+	width: 50%;
+}
+
+.menu
+{
+	color: rgb(50,255,30);
+	font-size: 30px;
+}
+
+a
+{
+	color: rgb(0,191,255);
+}
+
+
+a:hover 
+{
+	color: rgb(0,255,255);
+}
+
+
+.important
+{
+	color: rgb(255,40,30);
+}
+
+.mainTitle
+{
+	color: rgb(100,255,0);
+	font-size: 70px;
+}
+
+.secondaryTitle
+{
+	color: rgb(50,255,50);
+	font-size: 30px;
+}
+
+.listSubtitle
+{
+	color: rgb(0,191,255);
+	font-size: 20px;
+}
+
+li
+{
+	color: rgb(0 191 255);
+}
+
+.return
+{
+	color: rgb(40,240,50);
+}
+	
+	
+	
+.mainText
+{
+	color: rgb(0,255,255);
+	font-size: 19px;
+}
+
+.lable
+{
+	color: rgb(0,255,127);
+	font-size: 15px;
+}
+
+img
+{
+	border-radius: 50px 15px;
+	border-color: rgb(0,255,255);
+	border-width: medium;
+	border-style: solid;
+	width: 55%;
+	height: 50%;
+}
+
+body
+{
+	background-color: rgb(0,0,0);
+	margin-left: 10%;
+	margin-right: 20%;
+}
+
+h3
+{
+	color: rgb(0,191,255);
+}
+
+.step
+{
+	color: rgb(0,191,255);
+	font-size: 25px;
+}

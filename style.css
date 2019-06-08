@@ -1,0 +1,136 @@
+
+#v_logo
+{
+	width: 30%;
+	height: 25%;
+}
+
+#c_logo
+{
+	height: 200%;
+	width: 50%;
+}
+
+
+ul{
+	margin:0;
+	padding:0;
+}
+
+.menu{
+	background-color:#3366FF;
+	overflow: hidden;
+	position: -webkit-sticky;
+	position: sticky;
+	top:0;
+	width:70%;
+	list-style-type: none;
+}
+
+.header{
+	display:block;
+	color:blue;
+	text-align:center;
+	padding:2%;
+	float:left;
+}
+
+ul
+{
+	color: rgb(0,255,255);
+}
+
+li
+{
+	color: rgb(0,255,255);
+}
+
+a
+{
+	color: rgb(0,255,0);
+	font-size: 110%;
+}
+
+a:hover 
+{
+	color: rgb(0,255,255);
+}
+
+.mainTitle
+{
+	color: rgb(100,255,0);
+	font-size: 70px;
+}
+
+.secondaryTitle
+{
+	color: rgb(50,255,50);
+	font-size: 30px;
+}
+
+.listSubtitle
+{
+	color: rgb(0,191,255);
+	font-size: 20px;
+}
+
+h3
+{
+	color: rgb(127,255,0);
+	font-size: 20;
+}
+
+.step
+{
+	color: rgb(64,224,208);
+	font-size: 25px;
+}
+
+body
+{
+	background-color: rgb(0,0,0);
+	margin-left: 10%;
+	margin-right: 20%;
+	font-family: Verdana, "Arial Narrow", sans-serif;
+}
+
+.mainText
+{
+	color: rgb(0,255,255);
+	font-size: 19px;
+}
+
+.lable
+{
+	color: rgb(173,255,47);
+	font-size: 15px;
+}
+
+.important
+{
+	color: rgb(255,40,30);
+}
+
+.return
+{
+	color: rgb(40,240,50);
+}
+	
+li
+{
+	color: rgb(0 191 255);
+}
+
+img
+{
+	border-radius: 50px 15px;
+	border-color: rgb(0,255,255);
+	border-width: medium;
+	border-style: solid;
+	width: 55%;
+	height: 50%;
+	padding: 1%;
+}
+
+
+

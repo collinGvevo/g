@@ -12,12 +12,14 @@
 }
 
 
-ul{
+ul
+{
 	margin:0;
 	padding:0;
 }
 
-.menu{
+.menu
+{
 	background-color:#3366FF;
 	overflow: hidden;
 	position: -webkit-sticky;
@@ -27,12 +29,18 @@ ul{
 	list-style-type: none;
 }
 
-.header{
+.header
+{
 	display:block;
 	color:blue;
 	text-align:center;
 	padding:2%;
 	float:left;
+}
+
+.photocredits li
+{
+	font-size: 15px;
 }
 
 ul
@@ -90,7 +98,7 @@ body
 {
 	background-color: rgb(0,0,0);
 	margin-left: 10%;
-	margin-right: 20%;
+	margin-right: 10%;
 	font-family: Verdana, "Arial Narrow", sans-serif;
 }
 

@@ -1,4 +1,4 @@
-
+/*Formatting for images.*/
 #v_logo
 {
 	width: 30%;
@@ -17,20 +17,34 @@
 	width: 10%;
 }
 
+img
+{
+	border-radius: 50px 15px;
+	border-color: rgb(0,255,255);
+	border-width: medium;
+	border-style: solid;
+	width: 55%;
+	height: 50%;
+	padding: 1%;
+}
+/*Formatting for lists and navigation menu.*/
 ul
 {
 	margin:0;
 	padding:0;
+	color: rgb(0,255,255);
 }
 
 .menu
 {
 	background-color:#3366FF;
 	overflow: hidden;
+	/*Will not disapear when you move your cursor down.*/
 	position: -webkit-sticky;
 	position: sticky;
 	top:0;
 	width:70%;
+	/*No bullets in navigation menu.*/
 	list-style-type: none;
 }
 
@@ -48,27 +62,25 @@ ul
 	font-size: 15px;
 }
 
-ul
-{
-	color: rgb(0,255,255);
-}
-
 li
 {
-	color: rgb(0,255,255);
+	color: rgb(0 191 255);
 }
 
+/*links*/
 a
 {
 	color: rgb(0,255,0);
 	font-size: 110%;
 }
 
+/*Link will change color when mouse hovers over it.*/
 a:hover 
 {
 	color: rgb(0,255,255);
 }
 
+/*headings*/
 .mainTitle
 {
 	color: rgb(100,255,0);
@@ -99,6 +111,7 @@ h3
 	font-size: 25px;
 }
 
+/*paragraph classes and body formatting.*/
 body
 {
 	background-color: rgb(0,0,0);
@@ -129,21 +142,8 @@ body
 	color: rgb(40,240,50);
 }
 	
-li
-{
-	color: rgb(0 191 255);
-}
 
-img
-{
-	border-radius: 50px 15px;
-	border-color: rgb(0,255,255);
-	border-width: medium;
-	border-style: solid;
-	width: 55%;
-	height: 50%;
-	padding: 1%;
-}
+
 
 
 

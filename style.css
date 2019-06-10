@@ -15,7 +15,7 @@
 {
 	height: 7%;
 	width: 10%;
-	padding: -1%;
+	margin: 1%;
 }
 
 img
@@ -31,14 +31,14 @@ img
 /*Formatting for lists and navigation menu.*/
 ul
 {
-	margin:0;
-	padding:0;
+	margin: 0;
+	padding: 0;
 	color: rgb(0,255,255);
 }
 
 .menu
 {
-	background-color:#3366FF;
+	background-color: #3366FF;
 	overflow: hidden;
 	/*Will not disapear when you move your cursor down.*/
 	position: -webkit-sticky;
